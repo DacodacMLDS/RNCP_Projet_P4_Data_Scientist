@@ -38,7 +38,7 @@ Mise en place de différents modèles de régression pour prédire les émission
 
 - Répertoire "Notebooks":
   - fichier "Pelec_01_analyse.ipynb": fichier notebook Jupyter en Python pour l'analyse exploratoire des données
-  - fichier "Pelec_02_modelisation.ipynb: fichier notebook Jupyter en Python pour la modélisation
+  - fichier "Pelec_02_modelisation.ipynb": fichier notebook Jupyter en Python pour la modélisation
   
 - Répertoire "Soutenance":
   - fichier "Pelec_03_support_soutenance_ppt.ppt": fichier support soutenance projet Powerpoint
